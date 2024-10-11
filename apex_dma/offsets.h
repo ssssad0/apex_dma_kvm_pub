@@ -1,5 +1,5 @@
 //Date 2024/09/26
-//GameVersion = v3.0.81.36
+//GameVersion = v3.0.82.42
 
 #define OFFSET_ENTITYLIST 0x01f60fa0 + 0xA8 //[ConVars].gamepad_aim_assist_melee updated 2024/09/26 # [Miscellaneous].cl_entitylist
 #define OFFSET_LOCAL_ENT 0x24342B8 //[Miscellaneous].LocalPlayer updated 2024/09/20
