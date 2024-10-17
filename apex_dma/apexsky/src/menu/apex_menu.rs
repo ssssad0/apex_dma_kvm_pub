@@ -795,7 +795,6 @@ fn build_main_menu(
             |_| {
                 let settings = &mut lock_config!().settings;
                 settings.aim_no_recoil = !settings.aim_no_recoil;
-                // settings.aim = if settings.aim_no_recoil { 0 } else { 2 };
                 None
             },
         )
